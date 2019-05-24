@@ -4,7 +4,7 @@ L'endroit pour échanger, proposer, organiser des sujets/ateliers pour le [meetu
 Python à Bordeaux](https://www.meetup.com/py-bdx/)
 
 L'historique des présentations et ressources de veille est toujours sur
-https://annuel.framapad.org/p/py-pdx
+https://annuel.framapad.org/p/py-bdx
 
 N'hésitez pas à parcourir la [liste des
 propositions](https://github.com/pybdx/meetup-hub/issues) pour réagir et voter
