@@ -4,7 +4,7 @@ L'endroit pour échanger, proposer, organiser des sujets/ateliers pour le [meetu
 Python à Bordeaux](https://www.meetup.com/py-bdx/)
 
 N'hésitez pas à parcourir la [liste des
-propositions](https://github.com/pybdx/meetup-hub/issues) pour réagir et voter
+propositions](https://github.com/pybdx/meetup-hub/issues) pour réagir et voter :
 
 ![image](https://cloud.githubusercontent.com/assets/1388706/21383842/f94e72d8-c767-11e6-9ae3-0443f9a59d17.png)
 
@@ -33,3 +33,10 @@ en précisant :
 * Si vous souhaitez de l'aide et préparer un sujet à plusieurs mains
 
 On peut potentiellement représenter un sujet passé (> 1 an).
+
+## Sujets Passés
+
+* [Les meetups passés](./HISTORY.md)
+
+* Ou directement sur les événements passés du site
+  https://www.meetup.com/py-bdx/events/past/
