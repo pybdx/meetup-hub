@@ -8,6 +8,9 @@ propositions](https://github.com/pybdx/meetup-hub/issues) pour réagir et voter 
 
 ![image](https://cloud.githubusercontent.com/assets/1388706/21383842/f94e72d8-c767-11e6-9ae3-0443f9a59d17.png)
 
+Si vous n'êtes pas sur le site Meetup, n'hésitez pas à jeter un oeil
+au discuss de l'Afpy dans lequel certains événements locaux, et pas
+forcément à Bordeaux, sont partagés: https://discuss.afpy.org/c/meetups/12
 
 ## Proposer un sujet
 
