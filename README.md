@@ -11,7 +11,7 @@ propositions](https://github.com/pybdx/meetup-hub/issues) pour réagir et voter 
 
 ## Proposer un sujet
 
-Vous êtes intéressé(e) par un sujet ? Vous pouvez :
+Vous êtes intéressé·e par un sujet ? Vous pouvez :
 
 * proposer de présenter quelque chose dans la forme qui vous convient (*live coding*,
   discussion, présentation courte, etc.)
@@ -33,6 +33,10 @@ en précisant :
 * Si vous souhaitez de l'aide et préparer un sujet à plusieurs mains
 
 On peut potentiellement représenter un sujet passé (> 1 an).
+
+À savoir que les issues **closed** ne sont pas des présentations qui ont été
+nécessairement données. Donc on peut toujours jeter un oeil et demander à les rouvrir
+au besoin.
 
 ## Sujets Passés
 
